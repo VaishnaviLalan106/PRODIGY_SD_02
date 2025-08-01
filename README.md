@@ -7,7 +7,7 @@ This mini-game challenges users to guess a randomly generated number between 1 a
 
 ## 📸 Screenshot
 
-![Guessing Game Screenshot](screenshot_(2).png)
+![Guessing Game Screenshot](<img src="screenshot(2).png" width="500">)
 
 ---
 
