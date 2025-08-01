@@ -1,7 +1,7 @@
 # 🎯 Guess the Number Game - PRODIGY_SD_02
 
 A beautifully designed interactive number guessing game built with **Python** and **Tkinter**.  
-This mini-game challenges users to guess a randomly generated number between 1 and 100 — with logical hints, animations, and celebration effects! 🧠🎉
+This mini-game challenges users to guess a randomly generated number between 1 and 100 — with logical hints, animations, and celebration effects! 
 
 ---
 
@@ -13,21 +13,21 @@ This mini-game challenges users to guess a randomly generated number between 1 a
 
 ## ✨ Features
 
-- 🎮 GUI-based guessing game using Tkinter
-- 🔍 Real-time hints: even/odd, range, closeness
-- ⌨️ Typing animation for each message
-- 🎉 Victory popup when guessed correctly
-- 🔁 Reset button for fresh new game
-- 💖 Beautiful fonts, layout, and button animations
+- GUI-based guessing game using Tkinter
+- Real-time hints: even/odd, range, closeness
+- Typing animation for each message
+- Victory popup when guessed correctly
+- Reset button for fresh new game
+- Beautiful fonts, layout, and button animations
 
 ---
 
 ## 🛠 Tech Stack
 
-- 🐍 Python 3
-- 🪟 Tkinter (GUI library)
-- 🧠 Conditional logic & user interaction
-- 🎨 Custom font, color, and animation styling
+- Python 3
+- Tkinter (GUI library)
+- Conditional logic & user interaction
+- Custom font, color, and animation styling
 
 ---
 
@@ -45,6 +45,7 @@ PRODIGY_SD_02/
 │
 ├── guessing_game.py
 ├── README.md
-└── screenshot.png  ```
+└── screenshot.png
+```
 
 ---
