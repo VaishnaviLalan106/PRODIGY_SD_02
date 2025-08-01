@@ -45,7 +45,7 @@ PRODIGY_SD_02/
 │
 ├── guessing_game.py
 ├── README.md
-└── screenshot.png
+└── screenshot(2).png
 ```
 
 ---
