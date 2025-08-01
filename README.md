@@ -7,7 +7,7 @@ This mini-game challenges users to guess a randomly generated number between 1 a
 
 ## 📸 Screenshot
 
-![Guessing Game Screenshot](screenshot(2).png)
+![Guessing Game Screenshot](screenshot.png)
 
 ---
 
@@ -45,7 +45,7 @@ PRODIGY_SD_02/
 │
 ├── guessing_game.py
 ├── README.md
-└── screenshot(2).png
+└── screenshot.png
 ```
 
 ---
