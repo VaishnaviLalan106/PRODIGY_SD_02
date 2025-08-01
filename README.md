@@ -35,11 +35,12 @@ This mini-game challenges users to guess a randomly generated number between 1 a
 
 **Vaishnavi Lalan**
 💼 Software Development Intern at Prodigy Infotech  
-🔗  [LinkedIn](https://www.linkedin.com/in/vaishnavi-lalan-270419310?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVwT8INsySK2z6a6jBPPJ1A%3D%3D)|[GitHub Profile](https://github.com/VaishnaviLalan106)
+🔗  [LinkedIn](https://www.linkedin.com/in/vaishnavi-lalan-270419310?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVwT8INsySK2z6a6jBPPJ1A%3D%3D) | [GitHub Profile](https://github.com/VaishnaviLalan106)
 
 ---
 
-## 📂 Folder Structure```
+## 📂 Folder Structure
+```
 PRODIGY_SD_02/
 │
 ├── guessing_game.py
